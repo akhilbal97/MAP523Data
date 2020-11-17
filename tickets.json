@@ -1,18 +1,6 @@
 {
-    "Tickets" : [{
     "type": "Balcony Level",
     "qty":  12,
     "price": 250
-  },
-  {
-    "type": "Lower Level",
-    "qty":  9,
-    "price": 555
-  },
-  {
-    "type": "Courtside",
-    "qty":  5,
-    "price": 2250
-  }]
 }
  
