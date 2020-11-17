@@ -17,6 +17,11 @@
     "id": 529,
     "courseCode":"MAP",
     "courseName":"Cross-Platform"
+    },
+  {
+    "id": 560,
+    "courseCode":"MAP",
+    "courseName":"Flutter"
     }]
   }
     
